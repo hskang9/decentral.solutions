@@ -99,7 +99,7 @@ The equation was derived by viewing a transaction as the result of many infinite
 
 Hence, We are now able to calculate the effective price of a transaction by considering the amount of Smart Tokens converted per connected token, i.e., the price of a Smart Token in terms of its connected token. 
 
-[f] ![alt text](https://i.imgur.com/TTu0wBI.png)
+[f] ![alt text](https://i.imgur.com/JvwnisV.png)
 
 This effective price will be different for each transaction size, and in relation to each connector in the case of more than one. The effective price has the desired property of ten small transactions or one large transaction of the same cumulative amount leading to exactly the same cost, ideally. 
 
@@ -168,7 +168,7 @@ Suppose a buyer wants to convert 10 units of the connected token into Smart Toke
 
 Considering the amount of Smart Tokens issued, we can now derive the effective price when converting 10 units of the connected token into the Smart Token is derived:
 
-[f-1] ![alt text](https://i.imgur.com/gK7qIlX.png)
+[f-1] ![alt text](https://i.imgur.com/ng3f09X.png)
 
 Notice how the effective price is different from the quoted price, in this case slightly higher. The difference is due to the price slippage for this particular transaction size explained in the previous section. In other words, each infinitely small incremental unit of the 10 tokens converted lead to upward pressure on the price, by adding to the connector balance and to the Smart Token supply. Effectively, the buyer has paid for the price slippage caused by her own transaction. The buyer is able to perform these computations prior to sending her tokens to the smart contract;, thus, allowing her to accurately gauge how the price will move in response to her conversion. **The predictability and uniformity of the price slippage is a key benefit of the Bancor formula.**
 
@@ -225,5 +225,5 @@ Today, having Bancor Protocol in place, as either a buyer or seller in the digit
  
 > REFERENCES   
 
-[1. Bancor White Paper](https://storage.googleapis.com/website-bancor/2018/04/01ba8253-bancor_protocol_whitepaper_en.pdf)
-[2. Bancor Network Articles](https://support.bancor.network/hc/en-us/articles/360000471472-How-do-Relay-Tokens-work-)
+1. Eyal Hertzog, Guy Benartzi, Galia Benartzi, [Bancor White Paper](https://storage.googleapis.com/website-bancor/2018/04/01ba8253-bancor_protocol_whitepaper_en.pdf) _Bancor Network_ (2018)
+2. Bancor Network Team, [Bancor Network Articles](https://support.bancor.network/hc/en-us/articles/360000471472-How-do-Relay-Tokens-work-) _Bancor Network_ (2018)
