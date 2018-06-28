@@ -130,6 +130,7 @@ Think of a Relay Token as a balance scale with each side representing the total 
 Through this example, you see that every transaction changes the conversion rate between the connectors, which ensures that the balances held in the connectors cannot mathematically ever be depleted. As the supply of tokens on one side of the balance is reduced, the exchange rate between the two sides increases so that it will never actually reach zero.
 
 As with all Smart Tokens, when a Relay Token’s calculated conversion rates differ from prices on other exchanges, arbitrageurs are incentivized to act as “liquidity movers” between the Relay Token and other exchanges, ensuring conversion rates represent the real market prices over time.
+
 In many respects, the value of a cryptocurrency is drawn from its ability to effectively interact in the global ecosystem. Therefore, the coins should be easily traded for its fair market price. Liquid tokens are able to be transferred easily without considerably affecting the price. Note that while liquidity may not be an issue for larger projects, it can be a massive concern for new or small-cap projects with low adoption.
 
 ### Adjustable Price Sensitivity in the Pricing Model
