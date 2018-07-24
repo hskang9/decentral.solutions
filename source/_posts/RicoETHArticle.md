@@ -1,10 +1,9 @@
 ---
-title: '[Blog] The Complete Tutorial On Getting Started With Smart Contracts On Ethereum'
+title: 'The Complete Tutorial On Getting Started With Smart Contracts On Ethereum'
 date: 2018-07-12 12:32:51
 tags:
-- Case Studies
-- Projects
-- Audits
+- Investors
+- Networking
 category: "Projects"
 author: "Rico Chen"
 thumbnail: https://i.imgur.com/dDZSHJ8.png
