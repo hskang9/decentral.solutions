@@ -15,6 +15,11 @@ sudo npm install hexo-cli -g
 
 ## Running Locally
 
+### Clone the repository with submodules
+```
+git clone https://github.com/lingqingmeng/decentral.solutions.git --recursive
+```
+
 ### Install dependencies
 Use yarn (npm also ok)   
 ```
