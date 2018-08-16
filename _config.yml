@@ -75,7 +75,7 @@ pagination_dir: page
 # Extensions
 ## Plugins: http://hexo.io/plugins/
 ## Themes: http://hexo.io/themes/
-theme: corporate # change this
+theme: decentral # change this
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
